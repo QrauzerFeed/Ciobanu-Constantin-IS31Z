@@ -1,0 +1,30 @@
+{
+	"1":{
+		"anul": 2001,
+		"titlu":"Cartea1",
+		"id": 1,
+		"pag": 30,
+		"autori": ["Ion", "Vasea"]
+	},
+	"2":{
+		"anul": 2002,
+		"titlu": "Cartea2",
+		"id": 2,
+		"pag": 400,
+		"autori": ["Vlad", "Dumitru"]
+	},
+	"3":{
+		"anul": 2003,
+		"titlu": "Cartea3",
+		"id": 3,
+		"pag": 10,
+		"autori": ["Leonea", "Liosha"]
+	},
+	"4":{
+		"anul": 2004,
+		"titlu": "Cartea4",
+		"id": 4,
+		"pag": 100,
+		"autori": ["Andrei", "Costea"]
+	}
+}
